@@ -1,0 +1,19 @@
+# TryHackMe - What is Networking?
+
+Room completed on TryHackMe.
+
+## Topics Learned
+
+- What is computer networking
+- OSI Model
+- TCP/IP Model
+- DNS
+- IP addressing
+- Basic network communication
+
+## Platform
+TryHackMe
+
+## Notes
+
+Networking is the foundation of cybersecurity. Understanding how devices communicate is essential for activities such as penetration testing and network security analysis.
