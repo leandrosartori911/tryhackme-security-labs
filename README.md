@@ -23,6 +23,11 @@ TryHackMe
 ### Career Understanding
 - Careers in Cyber
 
+### Nmap
+-Nmap
+
+### What is Networking
+-Networking Concepts
 ## Skills Developed
 
 - Linux command line
