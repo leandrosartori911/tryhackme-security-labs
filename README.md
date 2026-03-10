@@ -24,10 +24,10 @@ TryHackMe
 - Careers in Cyber
 
 ### Nmap
--Nmap
+- Nmap
 
 ### What is Networking
--Networking Concepts
+- Networking Concepts
 ## Skills Developed
 
 - Linux command line
@@ -35,3 +35,12 @@ TryHackMe
 - Cybersecurity research
 - Threat detection concepts
 - Offensive and defensive security fundamentals
+- Nmap
+- UDP Scan
+- SYN Scan
+- TCP Scan
+- ICMP Ping Scan
+- Firewall Scan
+- NULL, FIN and Xmas
+- Networking Concepts
+- TCP
